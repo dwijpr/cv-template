@@ -11,8 +11,8 @@
     $jfo = json_decode($json_file);
     $colors = $jfo->colors;
     $person = $jfo->person;
-    $educations = $jfo->educations;
-    $experiences = $jfo->experiences;
+    $educations = @$jfo->educations;
+    $experiences = @$jfo->experiences;
 
     // echo "<pre>";
     // var_dump($cfo);

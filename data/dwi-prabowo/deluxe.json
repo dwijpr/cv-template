@@ -12,65 +12,78 @@
     },
     "person": {
         "name": "Dwi Prabowo",
+        "fullName": "Dwi Juli Prabowo",
         "jobTitle": "Web Programmer",
-        "sex": {
-            "display": "Laki - Laki",
-            "value": "m"
-        },
-        "birthPlace": "New York",
-        "birthDate": "April 1990",
-        "religion": "Islam",
-        "address": "
-            Thomas Nolan Kaszas II
-            <br>
-            5322 Otter Lane
-            <br>
-            Middleberge FL 32068
-        ",
+        "sex": "Male",
+        "age": "25 y.o.",
+        "religion": "Moslem",
         "email": "dwijpr@gmail.com",
-        "phone": "62 856 1234 8765",
-        "quote": {
-            "text": "Life's most persistent and urgent question is: 'What are you doing for others?'",
-            "by": "Dr. Martin Luther King Jr."
-        }
-    },
-    "educations": [
-        {
-            "date": "2015 - Sekarang",
-            "name": "University of Manchester",
-            "major": "PhD Social Sciences and Psychology"
-        },
-        {
-            "date": "2009 - 2013",
-            "name": "Great Redford, Redding",
-            "major": "A-levels: Psychology (A), Law (A) Sociology (A)",
-            "desc": "11 GCSE's: 8(A)3(B)."
-        }
-    ],
-    "experiences": [
-        {
-            "date": "2012 - 2015",
-            "company": "Google",
-            "job": {
-                "title": "Web Developer",
-                "desc": "
-                    Membuat web menggunakan HTML. Berisikan konten tentang 
-                    \"hello world\" dan mendapatkan makan siang gratis dikantor.
-                    Bisa nginap dikantor juga, jadi tidak perlu kos.
-                "
+        "phone": "62 856 4098 8820",
+        "site": "http://dwijpr.github.io",
+        "profile": "
+            I have been working for more than 4 years as a Programmer, 2.5 years
+            as a Web Developer and as my current favorite. Mainly technologies
+            that I use are HTML, CSS, JavaScript, PHP (CI, Laravel), Git.
+            I also had the experiences developing application for mobile devices,
+            creating and building a startup team, and developing some desktop
+            softwares.
+        ",
+        "expertises": [
+            "Web Programming",
+            "Game Development",
+            "Version Control System",
+            "Writing Script based Tools"
+        ],
+        "educations": [
+            {
+                "date": "2009 - 2013",
+                "college": "STMIK AMIKOM Yogyakarta",
+                "major": "Information System"
             }
-        },
-        {
-            "date": "2007 - 2009",
-            "company": "Instagram",
-            "job": {
-                "title": "Node.js Programmer",
-                "desc": "
-                    Kalau dilihat dari tahunnya saja sih perusahaan ini belum 
-                    ada, jadi agak meragukan keabsahannya. Selain itu, instagram
-                    juga fokus ke produk mobile bukannya?
-                "
+        ],
+        "experiences": [
+            {
+                "company": "Qerja.com (Qareer Group)",
+                "date": "2014 - 2015",
+                "job": {
+                    "title": "Web Developer",
+                    "desc": "
+                        As a Web Developer, I have the responsibilities to develop
+                        a few web based applications, maintain the frontend + backend,
+                        do some researches and implement those to the projects.
+                    "
+                }
+            },
+            {
+                "company": "PT. Gameloft Indonesia",
+                "date": "2011 - 2012",
+                "job": {
+                    "title": "Massport Java Programmer",
+                    "desc": "
+                        <p>
+                            I started as a Junior Java Programmer,
+                            <ul>
+                                <li>Massport Java Game</li>
+                                <li>Using company's Framework and tools</li>
+                                <li>Fixing Bugs</li>
+                                <li>Releasing Builds.</li>
+                            </ul>
+                        </p>
+                        <p>
+                            As a Senior Programmer I had additional task that is
+                            dealing with the junior.
+                        </p>
+                        <p>
+                            As a Supervisor Programmer I more task like,
+                            <ul>
+                                <li>Manage small team (3 persons at the time)</li>
+                                <li>Reporting</li>
+                                <li>More Team meetings.</li>
+                            </ul>
+                        </p>
+                    "
+                }
             }
-        }
-    ]
+        ]
+    }
 }
