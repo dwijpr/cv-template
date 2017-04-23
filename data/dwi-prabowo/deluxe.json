@@ -18,16 +18,8 @@
         "age": "25 y.o.",
         "religion": "Moslem",
         "email": "dwijpr@gmail.com",
-        "phone": "62 856 4098 8820",
         "site": "http://dwijpr.github.io",
-        "profile": "
-            I have been working for more than 4 years as a Programmer, 2.5 years
-            as a Web Developer and as my current favorite. Mainly technologies
-            that I use are HTML, CSS, JavaScript, PHP (CI, Laravel), Git.
-            I also had the experiences developing application for mobile devices,
-            creating and building a startup team, and developing some desktop
-            softwares.
-        ",
+        "profile": "I have been working for more than 4 years as a Programmer, 2.5 years as a Web Developer and as my current favorite. Mainly technologies that I use are HTML, CSS, JavaScript, PHP (CI, Laravel), Git. I also had the experiences developing application for mobile devices, creating and building a startup team, and developing some desktop softwares.",
         "expertises": [
             "Web Programming",
             "Game Development",
@@ -47,11 +39,7 @@
                 "date": "2014 - 2015",
                 "job": {
                     "title": "Web Developer",
-                    "desc": "
-                        As a Web Developer, I have the responsibilities to develop
-                        a few web based applications, maintain the frontend + backend,
-                        do some researches and implement those to the projects.
-                    "
+                    "desc": "As a Web Developer, I have the responsibilities to develop some web based applications, maintain the frontend + backend, do some researches and implement those to the projects."
                 }
             },
             {
@@ -59,29 +47,7 @@
                 "date": "2011 - 2012",
                 "job": {
                     "title": "Massport Java Programmer",
-                    "desc": "
-                        <p>
-                            I started as a Junior Java Programmer,
-                            <ul>
-                                <li>Massport Java Game</li>
-                                <li>Using company's Framework and tools</li>
-                                <li>Fixing Bugs</li>
-                                <li>Releasing Builds.</li>
-                            </ul>
-                        </p>
-                        <p>
-                            As a Senior Programmer I had additional task that is
-                            dealing with the junior.
-                        </p>
-                        <p>
-                            As a Supervisor Programmer I more task like,
-                            <ul>
-                                <li>Manage small team (3 persons at the time)</li>
-                                <li>Reporting</li>
-                                <li>More Team meetings.</li>
-                            </ul>
-                        </p>
-                    "
+                    "desc": "<p>I started as a <b>Junior Java Programmer</b>,<ul><li>Massport Java Game</li><li>Using company's Framework and tools</li><li>Fixing Bugs</li><li>Releasing Builds.</li></ul></p><p>As a <b>Senior Programmer</b> I had additional task and that is dealing with the junior.</p><p>As a <b>Supervisor Programmer</b> I had more task like,<ul><li>Manage small team (3 people at the time)</li><li>Reporting</li><li>More Team meetings.</li></ul></p>"
                 }
             }
         ]

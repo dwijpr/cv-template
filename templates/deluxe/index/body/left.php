@@ -33,7 +33,9 @@
                 <div><?=$person->fullName?></div>
                 <div><?=$person->religion?></div>
                 <div><?=$person->sex?>, <?=$person->age?></div>
-                <div><?=$person->phone?></div>
+                <?php if (@$person->phone): ?>
+                    <div><?=$person->phone?></div>
+                <?php endif ?>
                 <div><?=$person->email?></div>
                 <div><?=$person->site?></div>
             </div>
