@@ -1,16 +1,22 @@
 <body>
     <div class="wrapper">
         <div class="header">
+            <div style="position: absolute;width: 100%;top: 34px;">
+                <img
+                    style="width: 600px;opacity: .1375;"
+                    src="data/dwi-prabowo/batman.svg"
+                >
+            </div>
             <div style="height: 48px;"></div>
-            <h1>
+            <h1 style="padding-top: 16px;">
                 <span>
                     <?=$person->name?>
                 </span>
             </h1>
             <h4>
                 <span>
-                    <?=$person->jobTitle?>
                     <hr>
+                    <?=$person->jobTitle?>
                 </span>
             </h4>
         </div>

@@ -7,24 +7,24 @@
         "background": {
             "primary": "#373737",
             "secondary": "#F5F5F5",
-            "tertiary": "#CFE1D4"
+            "tertiary": "#a6aba7"
         }
     },
     "person": {
         "name": "Dwi Prabowo",
         "fullName": "Dwi Juli Prabowo",
-        "jobTitle": "Web Programmer",
+        "jobTitle": "Laravel Programmer",
         "sex": "Male",
-        "age": "25 y.o.",
+        "age": "26 y.o.",
         "religion": "Moslem",
         "email": "dwijpr@gmail.com",
         "site": "http://dwijpr.github.io",
-        "profile": "I have been working for more than 4 years as a Programmer, 2.5 years as a Web Developer and as my current favorite. Mainly technologies that I use are HTML, CSS, JavaScript, PHP (CI, Laravel), Git. I also had the experiences developing application for mobile devices, creating and building a startup team, and developing some desktop softwares.",
+        "profile": "I have been working for more than 5 years as a Programmer, 3.5 years as a Web Developer and as my current favorite. Mainly technologies that I use are HTML, CSS, JavaScript, PHP (CI, Laravel), Git. I also had the experiences developing application for mobile devices, creating and building a startup team, and developing some desktop softwares.",
         "expertises": [
-            "Web Programming",
+            "Web (Laravel) Programming",
             "Game Development",
             "Version Control System",
-            "Writing Script based Tools"
+            "Script based Tools (CI - CD)"
         ],
         "educations": [
             {
@@ -34,6 +34,14 @@
             }
         ],
         "experiences": [
+            {
+                "company": "Geekseat",
+                "date": "2016",
+                "job": {
+                    "title": "Programmer",
+                    "desc": "Entered as a PHP Programmer, have been working for at least 3 projects using laravel framework."
+                }
+            },
             {
                 "company": "Qerja.com (Qareer Group)",
                 "date": "2014 - 2015",
@@ -47,7 +55,7 @@
                 "date": "2011 - 2012",
                 "job": {
                     "title": "Massport Java Programmer",
-                    "desc": "<p>I started as a <b>Junior Java Programmer</b>,<ul><li>Massport Java Game</li><li>Using company's Framework and tools</li><li>Fixing Bugs</li><li>Releasing Builds.</li></ul></p><p>As a <b>Senior Programmer</b> I had additional task and that is dealing with the junior.</p><p>As a <b>Supervisor Programmer</b> I had more task like,<ul><li>Manage small team (3 people at the time)</li><li>Reporting</li><li>More Team meetings.</li></ul></p>"
+                    "desc": "<b>Junior Java Programmer</b><br><b>Senior Programmer</b><br><b>Supervisor Programmer</b>"
                 }
             }
         ]

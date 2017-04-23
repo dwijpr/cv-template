@@ -8,7 +8,7 @@
         div.wrapper{
             margin: 0 auto;
             width: 816px;
-            height: 1154px;
+            height: 1120px;
             border: 1px solid <?=$colors->border?>;
             background: <?=$colors->background->primary?>;
             position: relative;
@@ -36,18 +36,20 @@
             margin: 32px 48px;
         }
         .header h1 span{
-            border: 1px solid <?=$colors->text->primary?>;
+            /* border: 1px solid <?=$colors->text->primary?>; */
             padding: 16px 48px;
         }
         .header h4{
             text-align: center;
+            text-transform: uppercase;
         }
         .header h4 span{
             display: inline-block;
         }
         .header h4 span hr{
             margin: 0 32px;
-            margin-top: 16px;
+            margin-bottom: 16px;
+            margin-top: -32px;
         }
 
         .content{
@@ -56,6 +58,7 @@
             background: <?=$colors->background->secondary?>;
             position: absolute;
             bottom: 0;
+            top: 216px;
         }
 
         .content .left, .content .right{
